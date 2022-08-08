@@ -32,6 +32,6 @@ Não é obrigatório utilizar todas as as tecnologias sugeridas, mas será um di
 
 #### Dúvidas?
 
-Qualquer dúvida / sugestão / melhoria / orientação adicional só enviar email para hendrix@wattio.com.br
+Qualquer dúvida / sugestão / melhoria / orientação adicional só enviar email para karen.maciel@inowatt.com.br
 
 Salve!

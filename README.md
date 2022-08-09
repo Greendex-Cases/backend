@@ -2,7 +2,7 @@
 
 #### Descrição
 
-O desafio consiste em implementar um CRUD de filmes, utilizando [python](https://www.python.org/ "python") integrando com uma API REST e uma possível persistência de dados.
+O desafio consiste em implementar um CRUD de filmes, utilizando [python](https://www.python.org/ "python") integrando com uma API REST e uma possível persistência de dados. O desafio possui um prazo de entrega de 4 dias após o recebimento do desafio.
 
 Rotas da API:
 
